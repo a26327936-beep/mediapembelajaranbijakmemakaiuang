@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1286,7 +1286,8 @@
       <links>
         <slidelink slideid="_player.5XN3sCL9D9B" displaytext="Cover" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5XN3sCL9D9B.5f80it3fF8G" displaytext="Cover" expand="false" type="slide" />
+            <slidelink slideid="_player.5XN3sCL9D9B.5f80it3fF8G" displaytext="Opening" expand="false" type="slide" />
+            <slidelink slideid="_player.5XN3sCL9D9B.5i2JIYGAjTF" displaytext="Tampilan Awal" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.63Z5wBROI6w" displaytext="Halaman Login" expand="true" type="slide">
@@ -1308,8 +1309,19 @@
         <slidelink slideid="_player.5e1RG8VvIdd" displaytext="Halaman Materi Pembelajaran" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5e1RG8VvIdd.6Onjt840W4i" displaytext="Materi 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5e1RG8VvIdd.6YLJLWNdrfu" displaytext="Materi 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5e1RG8VvIdd.6bpZ2AUPVA5" displaytext="Materi 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.6lVJZKy05vL" displaytext="Materi 2a" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.6aeqmjagvV2" displaytext="Materi 2b" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.6nPBlWAsRnn" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.5smAZsNBxxO" displaytext="Materi 3a" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.5iorAYQr0sk" displaytext="Materi 3b" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.5tAcoa1wTke" displaytext="Materi 3c" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.5VRxn1kCcCT" displaytext="Materi 2c" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.6NQHti4bScT" displaytext="Materi 2d" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.5bHypmexA62" displaytext="Materi 2e" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.5uXbktjDLIa" displaytext="Materi 2f" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.6IjV23xZlk1" displaytext="Materi 2g" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.6HPILWdth5I" displaytext="Materi 2h" expand="false" type="slide" />
+            <slidelink slideid="_player.5e1RG8VvIdd.6gQKLdLgeSf" displaytext="Akhir materi 2" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.63PTc7XXZgQ" displaytext="Halaman Game Edukasi" expand="true" type="slide">
@@ -1319,7 +1331,22 @@
         </slidelink>
         <slidelink slideid="_player.6kaDPiJvfpe" displaytext="Halaman Evaluasi Pembelajaran" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6kaDPiJvfpe.5zAT76y9K26" displaytext="Evaluasi" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5zAT76y9K26" displaytext="Petunjuk Evaluasi" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.68zjLkr9Dvq" displaytext="Soal 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.6OvIDpMzn05" displaytext="Soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.6BNbyFWyiGd" displaytext="Soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5VxsNSeSYnU" displaytext="Soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.6qg96cPa9tJ" displaytext="Soal 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.60O1zfN3qi7" displaytext="Soal 6" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5wb7LSdPsnP" displaytext="Soal 7" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5qNMlf5azZp" displaytext="Soal 8" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.6ByNutRKIXE" displaytext="Soal 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5knu5E01ti9" displaytext="Soal 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5l5WZZCJzhW" displaytext="Soal 11" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5vPDN9TgGPT" displaytext="Soal 12" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.6noInsxRzTD" displaytext="Soal 13" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.6KKKfPYFx7D" displaytext="Soal 14" expand="false" type="slide" />
+            <slidelink slideid="_player.6kaDPiJvfpe.5zegAkFrd89" displaytext="Soal 15" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6nuIzjdhqyt" displaytext="Halaman Biodata Pengembang" expand="true" type="slide">
@@ -1330,6 +1357,25 @@
         <slidelink slideid="_player.6IX8wNNwGLI" displaytext="Halaman Petunjuk Penggunaan" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6IX8wNNwGLI.6B5GjiuZke9" displaytext="Petunjuk Penggunaan" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5c0omxhzbml" displaytext="Puzzle Kata" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5c0omxhzbml.5XPRrvMepj8" displaytext="Hemat" expand="false" type="slide" />
+            <slidelink slideid="_player.5c0omxhzbml.6UIte6Pz6Fw" displaytext="Boros" expand="false" type="slide" />
+            <slidelink slideid="_player.5c0omxhzbml.5iasxhhDTIg" displaytext="Nabung" expand="false" type="slide" />
+            <slidelink slideid="_player.5c0omxhzbml.6Ee3mFt88mW" displaytext="Harga" expand="false" type="slide" />
+            <slidelink slideid="_player.5c0omxhzbml.5Vv32yZTJX5" displaytext="Toko" expand="false" type="slide" />
+            <slidelink slideid="_player.5c0omxhzbml.6r1GDrXrnqK" displaytext="Bijak" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6PkLAza0Xer" displaytext="Game Susun Kalimat" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6PkLAza0Xer.6jYZLecsvPR" displaytext="Drag and Drop 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6PkLAza0Xer.6PEpjGhTVpq" displaytext="Drag and Drop 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6PkLAza0Xer.5moXceoQJcT" displaytext="Drag and Drop 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6PkLAza0Xer.69OqCX9nVJl" displaytext="Drag and Drop 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6PkLAza0Xer.6RUDiDP4PYP" displaytext="Drag and Drop 5" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
